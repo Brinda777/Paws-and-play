@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793560621407",
+    "project_id": "soulpaws-4e0f0",
+    "storage_bucket": "soulpaws-4e0f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793560621407:android:ec04684bae49a3ab51d6ea",
+        "android_client_info": {
+          "package_name": "com.example.soulpaws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793560621407-urm3g470021kvgpm1noah3dvv3c999ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZlBBWu701e2Qbt_6T0EuuE8BbTbFUeEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793560621407-urm3g470021kvgpm1noah3dvv3c999ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
